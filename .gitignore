@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+\n# Dataset and large csv files\nkaggle dataset/\nsubmission.csv
+
+# Dataset and large csv files
+kaggle dataset/
+submission.csv
+\n# Exclude redundant files for showcase\nnotebooks/\nsrc/\nrequirements.txt\n
